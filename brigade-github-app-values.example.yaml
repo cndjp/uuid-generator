@@ -44,8 +44,8 @@ gateway:
 
 github:
   ## The x509 PEM-formatted keyfile GitHub issued for you App.
-  key: 
-    # FILL YOUR KEY
+  key: |
+    FILL YOUR KEY
  
   ## This represents the unique ID for a GitHub App
   ## The value can be retrieved from the main App page or any inbound webhook payloads
