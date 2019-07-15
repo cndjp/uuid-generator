@@ -1,5 +1,6 @@
 const { events, Job } = require("brigadier");
 
+// run event
 events.on("push", function(e, project) {
   console.log("received push for commit " + e.revision.commit)
 
