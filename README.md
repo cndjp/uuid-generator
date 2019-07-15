@@ -2,6 +2,8 @@
 Test bridgate for cndt at the cndjp presentation
 
 # Bridgate overview
+https://github.com/brigadecore/brigade
+
 ![result](https://nvisium.com/articles/2017/2017-11-07-event-driven-kubernetes-security-bringing-in-the-brigade/brigade-architecture.png)
 
 https://nvisium.com/blog/2017/11/07/event-driven-kubernetes-security-bringing-in-the-brigade.html
