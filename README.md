@@ -6,6 +6,10 @@ Test bridgate for cndt at the cndjp presentation
 
 https://nvisium.com/blog/2017/11/07/event-driven-kubernetes-security-bringing-in-the-brigade.html
 
+# Tutorials
+
+https://docs.brigade.sh/intro/
+
 # Usage
 
 ## 0. Install helm & brig command
